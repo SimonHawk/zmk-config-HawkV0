@@ -4,7 +4,7 @@ name: HawkV0
 type: shield
 url: https://github.com/SimonHawk
 requires: [pro_micro]
-exposes: [i2c_oled]
+exposes:
 features:
   - keys
   - studio
